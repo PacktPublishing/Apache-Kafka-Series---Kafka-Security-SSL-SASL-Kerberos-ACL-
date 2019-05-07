@@ -1,0 +1,3 @@
+https://kafka.apache.org/documentation/#security
+
+https://docs.confluent.io/4.0.0/security.html

@@ -1,0 +1,3 @@
+In the next lectures, we will setup Kerberos. If you do everything as we do, you won't get errors. If you get errors, they will be hard to understand. 
+
+This article will help you understand these errors: https://github.com/steveloughran/kerberos_and_hadoop/blob/master/sections/errors.md

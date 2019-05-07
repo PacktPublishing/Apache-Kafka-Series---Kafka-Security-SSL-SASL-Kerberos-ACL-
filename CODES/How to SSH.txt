@@ -1,0 +1,7 @@
+Please find documentation to SSH into your EC2 instance here:
+
+Linux / Mac: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html
+Windows: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
+Please bookmark these URLs. They will be useful when we deal with the secure copy utility
+
+Happy learning!

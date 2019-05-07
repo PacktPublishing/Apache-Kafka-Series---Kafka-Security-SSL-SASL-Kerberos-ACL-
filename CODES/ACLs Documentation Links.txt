@@ -1,0 +1,9 @@
+To view the complete list of ACLs, there are two pieces of documentation that are relevant. Bookmark these links:
+
+https://kafka.apache.org/documentation/#security_authz (Kafka documentation)
+
+https://docs.confluent.io/4.0.0/kafka/authorization.html (sometimes more up-to-date than the Kafka documentation)
+
+-----------
+
+Additionally, once you're familiar with ACL and you want to manage them at scale, you can leverage the project that Stephane has created: https://github.com/simplesteph/kafka-security-manager (you can star it to bookmark it)

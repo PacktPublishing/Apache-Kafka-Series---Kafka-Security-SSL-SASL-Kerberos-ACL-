@@ -1,0 +1,17 @@
+Please download the code attached to this lecture.
+
+In order to do the course, you will need Linux / Mac / Windows 10 with Ubuntu Bash.
+Remember that a pre-requisite to this course is to know the Bash command line. 
+
+========================
+
+Additional instructions - Windows 10:
+
+- Download and Install Ubuntu Bash for Windows: https://docs.microsoft.com/en-us/windows/wsl/install-win10
+- MobaXterm for all the activities in the terminals if you want to have the setup Gerd has: https://mobaxterm.mobatek.net/
+
+Additional instructors - other Windows:
+
+- you will have to download a VM of Ubuntu and run the tutorial from there.
+- Install VirtualBox: https://www.virtualbox.org/wiki/Downloads
+- Start Ubuntu: https://www.lifewire.com/run-ubuntu-within-windows-virtualbox-2202098
